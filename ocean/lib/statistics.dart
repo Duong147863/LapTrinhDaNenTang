@@ -62,7 +62,7 @@ class Statistics extends StatelessWidget {
               child: const Text("12", style: TextStyle(fontSize: 20),)
               
             ),
-            const Text("Sản đơn thành công", style: TextStyle(fontSize: 15),),
+            const Text("Số đơn thành công", style: TextStyle(fontSize: 15),),
           ],
         ),
       ],
